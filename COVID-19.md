@@ -1,10 +1,11 @@
 # COVID-19
 
-UCL has taken a number of measures to support students during the COVID-19 pandemic.
+* [Laptop Loan Scheme](https://github.com/uclapi/wiki/blob/master/COVID-19.md#laptop-loans)
+* [What's open on campus?](https://www.ucl.ac.uk/news/2020/oct/whats-open-campus)
 
 ## Laptop Loans
 
-Laptop loans are available on a short-term and long-term basis.
+UCL has taken a number of measures to support students during the COVID-19 pandemic. Laptop loans are available on a short-term and long-term basis.
 
 ### Long Term Loans
 
